@@ -1,1 +1,1 @@
-# cs601course
+Self study of Prof. Parr's CS course.
